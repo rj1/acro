@@ -11,6 +11,8 @@ have fun!
 
 p.s. join #acro on the [efnet irc network](http://www.efnet.org/) to try this game out. ask for fred.
 
+rest in peace Emi
+
 #### commands
 | command | description | example | priv lvl |
 | ---     | ---         | ---     | ---      |
